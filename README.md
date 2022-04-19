@@ -1,4 +1,4 @@
-## Olá, eu sou o João Pedro, Estudande de Engenharia de Software e Freelancer.
+## Olá, eu sou o João Pedro, Estudante de Engenharia de Software e Freelancer.
 
 <div align="center">
   <a href="https://github.com/Joao-Messias">
